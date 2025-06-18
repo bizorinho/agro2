@@ -22,7 +22,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #3f704d;
+  background-color: #1629a1;
   color: white;
   display: flex;
   flex-wrap: wrap;
@@ -33,7 +33,7 @@ body {
 }
 
 .logo img {
-  width: 150px;
+  width: 80px;
   height: auto;
   transition: transform 0.3s;
 }
@@ -128,7 +128,7 @@ section p {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #3f704d;
+  background-color: #1629a1;
   color: white;
   border: none;
   font-size: 1.5rem;
@@ -154,6 +154,8 @@ section p {
 .video-container {
   max-width: 800px;
   margin: 0 auto;
+  padding: 5vw;
+  padding-left: 8vw;
 }
 
 video {
@@ -163,7 +165,7 @@ video {
 }
 
 footer {
-  background-color: #3f704d;
+  background-color: #1629a1;
   color: white;
   text-align: center;
   padding: 20px;
@@ -184,7 +186,7 @@ footer {
   position: fixed;
   right: 10px;
   top: 150px;
-  background: #3f704d;
+  background: #1629a1;
   color: white;
   border: none;
   padding: 8px 12px;
@@ -217,7 +219,7 @@ footer {
 .accessibility-menu button {
   padding: 8px;
   border: none;
-  background-color: #3f704d;
+  background-color: #1629a1;
   color: white;
   border-radius: 6px;
   cursor: pointer;
@@ -240,7 +242,7 @@ footer {
   .nav-links {
     display: none;
     flex-direction: column;
-    background-color: #3f704d;
+    background-color: #1629a1;
     position: absolute;
     top: 100%;
     right: 0;
